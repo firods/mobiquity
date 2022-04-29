@@ -1,0 +1,6 @@
+{
+	"url":"https://jsonplaceholder.typicode.com",
+	"postStatusCode":"201",
+	"getStatusCode":"200",
+	"deleteStatusCode":"200"
+}
